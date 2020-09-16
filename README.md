@@ -10,7 +10,6 @@ In this project, I build new "data recycle" tools that can be used in conjunctio
 	2) Reduce correlation in training when using value function approximation (eg. DQN)
 
 # Goal:
-* I focus on i.
 * Investigate how efficiently Experience Replay and its variants use data
 * Develop simple new algorithms that can better take advantage of unusual and/or rare data
 
